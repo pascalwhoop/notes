@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="880px" height="682px" viewBox="0 0 880 682" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="119" height="94"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Live-Migration-Diagram">
+            <g id="Group-2" transform="translate(43.000000, 641.000000)">
+                <path d="M770,4 L0.498538013,4" id="Stroke-188" stroke="#616161"></path>
+                <polygon id="Fill-190" fill="#616161" points="766.671752 0 766 0.716490906 769.55561 3.99938866 766 7.28350909 766.671752 8 771 3.99938866"></polygon>
+            </g>
+            <g id="connector1-copy-2" transform="translate(518.000000, 609.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E6F5EE" points="284.712322 27 0 27 0 0 284.712322 0 296 13.21875"></polygon>
+                <text id="VM-Running-on-Target" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="87" y="17">VM Running on Target Host</tspan>
+                </text>
+            </g>
+            <g id="connector1-copy-3" transform="translate(518.000000, 576.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#EFEAF7" points="285.4375 27 0 27 0 0 285.4375 0 296.725178 13.21875"></polygon>
+                <text id="Target-Brownout" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="124" y="17">Target Brownout</tspan>
+                </text>
+            </g>
+            <text id="Source-VM" transform="translate(65.500000, 288.000000) rotate(-90.000000) translate(-65.500000, -288.000000) " font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="12" fill="#757575">
+                <tspan x="41" y="291">Source VM</tspan>
+            </text>
+            <text id="Target-VM" transform="translate(65.000000, 493.000000) rotate(-90.000000) translate(-65.000000, -493.000000) " font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="12" fill="#757575">
+                <tspan x="42" y="496">Target VM</tspan>
+            </text>
+            <path d="M83.8256013,378 L44.1743987,378 C44.0784794,378 44,377.326748 44,376.503884 L44,199.496116 C44,198.673252 44.0784794,198 44.1743987,198 L83.8256013,198 C83.9215206,198 84,198.673252 84,199.496116 L84,376.503884 C84,377.326748 83.9215206,378 83.8256013,378 L83.8256013,378 Z" id="Stroke-10" stroke="#8E8E8E" stroke-width="1.018" stroke-dasharray="2.317"></path>
+            <path d="M810.817224,378 L87.1827764,378 C85.4322494,378 84,377.326748 84,376.503884 L84,199.496116 C84,198.673252 85.4322494,198 87.1827764,198 L810.817224,198 C812.567751,198 814,198.673252 814,199.496116 L814,376.503884 C814,377.326748 812.567751,378 810.817224,378 L810.817224,378 Z" id="Stroke-10-Copy-2" fill="#F7F7F7"></path>
+            <path d="M810.817224,568 L87.1827764,568 C85.4322494,568 84,567.438956 84,566.753236 L84,419.246764 C84,418.561044 85.4322494,418 87.1827764,418 L810.817224,418 C812.567751,418 814,418.561044 814,419.246764 L814,566.753236 C814,567.438956 812.567751,568 810.817224,568 L810.817224,568 Z" id="Stroke-10-Copy-3" fill="#F7F7F7"></path>
+            <path d="M528.302405,378 L369.697595,378 C369.313918,378 369,377.326748 369,376.503884 L369,199.496116 C369,198.673252 369.313918,198 369.697595,198 L528.302405,198 C528.686082,198 529,198.673252 529,199.496116 L529,376.503884 C529,377.326748 528.686082,378 528.302405,378 L528.302405,378 Z" id="Stroke-10-Copy-5" fill="#EDEFF1"></path>
+            <path d="M528.5,198.5 L528.5,377.636819" id="Line" stroke="#8E8E8E" stroke-width="1.018" fill="#D4D4D4" stroke-dasharray="2.317"></path>
+            <path d="M369.5,198.5 L369.5,377.636819" id="Line-Copy" stroke="#8E8E8E" stroke-width="1.018" fill="#D4D4D4" stroke-dasharray="2.317"></path>
+            <path d="M528.302405,568 L369.697595,568 C369.313918,568 369,567.438956 369,566.753236 L369,419.246764 C369,418.561044 369.313918,418 369.697595,418 L528.302405,418 C528.686082,418 529,418.561044 529,419.246764 L529,566.753236 C529,567.438956 528.686082,568 528.302405,568 L528.302405,568 Z" id="Stroke-10-Copy-4" fill="#EDEFF1"></path>
+            <path d="M528.5,418.5 L528.5,568.513333" id="Line-Copy" stroke="#8E8E8E" stroke-width="1.018" fill="#D4D4D4" stroke-dasharray="2.317"></path>
+            <path d="M369.5,418.5 L369.5,568.513333" id="Line-Copy-2" stroke="#8E8E8E" stroke-width="1.018" fill="#D4D4D4" stroke-dasharray="2.317"></path>
+            <path d="M83.8256013,568 L44.1743987,568 C44.0784794,568 44,567.438956 44,566.753236 L44,419.246764 C44,418.561044 44.0784794,418 44.1743987,418 L83.8256013,418 C83.9215206,418 84,418.561044 84,419.246764 L84,566.753236 C84,567.438956 83.9215206,568 83.8256013,568 L83.8256013,568 Z" id="Stroke-10-Copy" stroke="#8E8E8E" stroke-width="1.018" stroke-dasharray="2.317"></path>
+            <path d="M811.500651,188.5 L44,188.5" id="Stroke-97-Copy-2" stroke="#DDDDDD" stroke-dasharray="5,5"></path>
+            <text id="Remote-Resources" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#757575">
+                <tspan x="44" y="183">Remote Resources</tspan>
+            </text>
+            <text id="Time" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#757575">
+                <tspan x="44" y="658">Time</tspan>
+            </text>
+            <g id="connector1-copy" transform="translate(356.000000, 609.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#F9ADAD" points="161 27 0 27 0 0 161 0 173 13.21875"></polygon>
+                <text id="VM-Paused" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="67" y="17">VM Paused</tspan>
+                </text>
+            </g>
+            <g id="connector1-copy-4" transform="translate(356.000000, 576.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#F9ADAD" points="161 27 0 27 0 0 161 0 173 13.21875"></polygon>
+                <text id="Blackout" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="67" y="17">Blackout</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-15" transform="translate(599.500000, 400.000000) rotate(-270.000000) translate(-599.500000, -400.000000) translate(503.000000, 396.000000)">
+                <path d="M191.516403,4 L1,4" id="Stroke-101" stroke="#616161"></path>
+                <polygon id="Fill-103" fill="#616161" points="188.671752 0 188 0.716490906 191.55561 3.99938866 188 7.28350909 188.671752 8 193 3.99938866"></polygon>
+                <polygon id="Fill-103-Copy" fill="#616161" transform="translate(2.500000, 4.000000) scale(-1, 1) translate(-2.500000, -4.000000) " points="0.671751969 0 0 0.716490906 3.55561024 3.99938866 0 7.28350909 0.671751969 8 5 3.99938866"></polygon>
+            </g>
+            <rect id="Rectangle" fill="#B9B9B9" x="84" y="378" width="730" height="40"></rect>
+            <text id="Cluster-Networking" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#434343">
+                <tspan x="407" y="402">Cluster Networking</tspan>
+            </text>
+            <g id="Group-Copy-4" transform="translate(369.000000, 276.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="314.423828 27 0 27 0 0 314.423828 0 326.423828 13.21875"></polygon>
+                <text id="Memory-Post-Copy" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="20" y="17">Memory Post-Copy</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(369.000000, 496.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="314.423828 27 0 27 0 0 314.423828 0 326.423828 13.21875"></polygon>
+                <text id="Memory-Post-Copy" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="20" y="17">Memory Post-Copy</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-14" transform="translate(329.000000, 367.000000) rotate(-270.000000) translate(-329.000000, -367.000000) translate(233.000000, 363.000000)">
+                <path d="M190.516403,4 L0,4" id="Stroke-101" stroke="#616161"></path>
+                <polygon id="Fill-103" fill="#616161" points="187.671752 0 187 0.716490906 190.55561 3.99938866 187 7.28350909 187.671752 8 192 3.99938866"></polygon>
+            </g>
+            <g id="Group-Copy-2" transform="translate(259.000000, 276.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="109.820312 27 0 27 0 0 109.820312 0 121.820312 13.21875"></polygon>
+                <text id="Memory-Pre-Copy" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="10" y="17">Memory Pre-Copy</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(259.000000, 496.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="109.820312 27 0 27 12 13.6972656 0 0 109.820312 0 121.820312 13.21875"></polygon>
+                <text id="Memory-Pre-Copy" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="20" y="17">Memory Pre-Copy</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(310.000000, 244.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="46.0253192 27 0.6484375 27 0.6484375 0 46.0253192 0 58 13.21875"></polygon>
+                <text id="PD" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="11" y="17">PD</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-11" transform="translate(369.000000, 464.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#A8DAF0" points="59.460866 27 0.6484375 27 0.6484375 0 59.460866 0 71.4355469 13.21875"></polygon>
+                <text id="PD" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="21" y="17">PD</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(310.000000, 464.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="59.460866 27 0.6484375 27 12.6484375 13.8945312 0.6484375 0 59.460866 0 71.4355469 13.21875"></polygon>
+                <text id="PD" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="21" y="17">PD</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(176.000000, 429.000000) rotate(-270.000000) translate(-176.000000, -429.000000) translate(78.000000, 425.000000)">
+                <path d="M194.608582,4 L0,4" id="Stroke-101" stroke="#616161"></path>
+                <polygon id="Fill-103" fill="#616161" points="191.671752 0 191 0.716490906 194.55561 3.99938866 191 7.28350909 191.671752 8 196 3.99938866"></polygon>
+            </g>
+            <g id="Group-Copy-13" transform="translate(281.000000, 399.000000) rotate(-270.000000) translate(-281.000000, -399.000000) translate(185.000000, 395.000000)">
+                <path d="M190.516403,4 L0,4" id="Stroke-101" stroke="#616161"></path>
+                <polygon id="Fill-103" fill="#616161" points="187.671752 0 187 0.716490906 190.55561 3.99938866 187 7.28350909 187.671752 8 192 3.99938866"></polygon>
+            </g>
+            <g id="Group-Copy-16" transform="translate(496.000000, 399.000000) rotate(-270.000000) translate(-496.000000, -399.000000) translate(400.000000, 395.000000)">
+                <path d="M190.516403,4 L0,4" id="Stroke-101" stroke="#616161"></path>
+                <polygon id="Fill-103" fill="#616161" points="187.671752 0 187 0.716490906 190.55561 3.99938866 187 7.28350909 187.671752 8 192 3.99938866"></polygon>
+            </g>
+            <g id="Group-Copy" transform="translate(154.000000, 308.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="203 27 0 27 0 0 203 0 215 13.21875"></polygon>
+                <text id="Local-SSD" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="10" y="17">Local SSD</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-10" transform="translate(154.000000, 528.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="203 27 0 27 12 14.09375 0 0 203 0 215 13.21875"></polygon>
+                <text id="Local-SSD" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="20" y="17">Local SSD</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-12" transform="translate(529.000000, 528.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="250.962891 27 0 27 12 13.1054687 0 0 250.962891 0 262.962891 13.21875"></polygon>
+                <text id="Networking" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="20" y="17">Networking</tspan>
+                </text>
+            </g>
+            <g id="connector1" transform="translate(44.000000, 609.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E6F5EE" points="312.712322 27 0 27 0 0 312.712322 0 324 13.21875"></polygon>
+                <text id="VM-Running-on-Source" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="99" y="17">VM Running on Source Host</tspan>
+                </text>
+            </g>
+            <g id="connector1-copy-5" transform="translate(84.000000, 576.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#EFEAF7" points="272.712322 27 0 27 0 0 272.712322 0 284 13.21875"></polygon>
+                <text id="Source-Brownout" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="94" y="17">Source Brownout</tspan>
+                </text>
+            </g>
+            <g id="box" transform="translate(249.000000, 48.000000)">
+                <rect id="Rectangle-13" stroke="#DFDFDF" x="0.5" y="0.5" width="118" height="93"></rect>
+                <text id="Persistent-Disk" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#212121">
+                    <tspan x="21.9423828" y="73">Persistent Disk</tspan>
+                </text>
+            </g>
+            <g id="box-copy" transform="translate(529.000000, 48.000000)">
+                <g id="Rectangle-13">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DFDFDF" stroke-width="1" x="0.5" y="0.5" width="118" height="93"></rect>
+                </g>
+                <text id="Cloud-Networking" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#212121">
+                    <tspan x="14.4892578" y="73">Cloud Networking</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(303.000000, 75.000000)">
+                <g id="Group-3" fill="#6C6C6C">
+                    <rect id="Rectangle-2" x="0" y="0" width="13" height="3"></rect>
+                    <rect id="Rectangle-2-Copy" x="0" y="0" width="3" height="6"></rect>
+                </g>
+                <g id="Group-3-Copy" transform="translate(6.500000, 13.000000) scale(-1, -1) translate(-6.500000, -13.000000) translate(0.000000, 10.000000)" fill="#6C6C6C">
+                    <rect id="Rectangle-2" x="0" y="0" width="13" height="3"></rect>
+                    <rect id="Rectangle-2-Copy" x="0" y="0" width="3" height="6"></rect>
+                </g>
+                <g id="Group-4">
+                    <rect id="Rectangle-3" fill="#6C6C6C" x="0" y="8" width="8" height="3"></rect>
+                    <rect id="Rectangle-3-Copy" fill="#6C6C6C" x="5" y="5" width="8" height="3"></rect>
+                    <path d="M294.4,6 C293.7,2.6 290.7,0 287,0 C284.1,0 281.6,1.6 280.4,4 C277.3,4.4 275,6.9 275,10 C275,13.3 277.7,16 281,16 L294,16 C296.8,16 299,13.8 299,11 C299,8.4 296.9,6.2 294.4,6 L294.4,6 Z" id="Shape" fill="#616161"></path>
+                </g>
+            </g>
+            <polyline id="Path-2" stroke="#B5B5B5" points="368 226 481.455588 226 481.455588 93 528 93"></polyline>
+            <path d="M329.004564,243.580071 L329.004564,143" id="Path-3" stroke="#B5B5B5"></path>
+            <polygon id="Fill-103-Copy" fill="#B5B5B5" points="524.671752 89 524 89.7164909 527.55561 92.9993887 524 96.2835091 524.671752 97 529 92.9993887"></polygon>
+            <polygon id="Fill-103-Copy-2" fill="#B5B5B5" transform="translate(651.500000, 93.000000) scale(-1, 1) translate(-651.500000, -93.000000) " points="649.671752 89 649 89.7164909 652.55561 92.9993887 649 96.2835091 649.671752 97 654 92.9993887"></polygon>
+            <polygon id="Fill-103-Copy" fill="#B5B5B5" transform="translate(329.500000, 145.000000) scale(-1, 1) rotate(-90.000000) translate(-329.500000, -145.000000) " points="327.671752 141 327 141.716491 330.55561 144.999389 327 148.283509 327.671752 149 332 144.999389"></polygon>
+            <polyline id="Path-4" stroke="#B5B5B5" points="439.925743 477 840 477 840 14 308 14 308 44.0881252"></polyline>
+            <polygon id="Fill-103" fill="#B5B5B5" transform="translate(308.500000, 43.000000) rotate(-270.000000) translate(-308.500000, -43.000000) " points="306.671752 39 306 39.7164909 309.55561 42.9993887 306 46.2835091 306.671752 47 311 42.9993887"></polygon>
+            <polyline id="Path-5" stroke="#B5B5B5" points="792.081192 541 827 541 827 93 650 93"></polyline>
+            <path d="M810.817224,378 L87.1827764,378 C85.4322494,378 84,377.326748 84,376.503884 L84,199.496116 C84,198.673252 85.4322494,198 87.1827764,198 L810.817224,198 C812.567751,198 814,198.673252 814,199.496116 L814,376.503884 C814,377.326748 812.567751,378 810.817224,378 L810.817224,378 Z" id="Stroke-10-Copy-8" stroke="#8E8E8E" stroke-width="1.018" stroke-dasharray="2.317"></path>
+            <path d="M810.817224,568 L87.1827764,568 C85.4322494,568 84,567.438956 84,566.753236 L84,419.246764 C84,418.561044 85.4322494,418 87.1827764,418 L810.817224,418 C812.567751,418 814,418.561044 814,419.246764 L814,566.753236 C814,567.438956 812.567751,568 810.817224,568 L810.817224,568 Z" id="Stroke-10-Copy-7" stroke="#8E8E8E" stroke-width="1.018" stroke-dasharray="2.317"></path>
+            <g id="Group-Copy" transform="translate(153.000000, 212.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#E3F6FE" points="203 27 0 27 0 0 203 0 215 13.21875"></polygon>
+                <text id="Networking" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="10" y="17">Networking</tspan>
+                </text>
+            </g>
+            <path d="M154.825601,335 L115.174399,335 C115.078479,335 115,334.539944 115,333.977654 L115,213.022346 C115,212.460056 115.078479,212 115.174399,212 L154.825601,212 C154.921521,212 155,212.460056 155,213.022346 L155,333.977654 C155,334.539944 154.921521,335 154.825601,335 L154.825601,335 Z" id="Stroke-10-Copy-6" stroke="#8E8E8E" stroke-width="1.018" fill="#FDFAD1" stroke-dasharray="2.317"></path>
+            <text id="Coordination" transform="translate(135.000000, 274.000000) rotate(-90.000000) translate(-135.000000, -274.000000) " font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="12" fill="#757575">
+                <tspan x="106" y="277">Coordination</tspan>
+            </text>
+            <g id="Group-Copy-5" transform="translate(369.000000, 340.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#A8DAF0" points="148 27 0 27 0 0 148 0 160 13.21875"></polygon>
+                <text id="Static-VM-State" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="20" y="17">Static VM State</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(369.000000, 432.000000)">
+                <polygon id="Fill-60" stroke="#B5B5B5" fill="#A8DAF0" points="148 27 0 27 12 13.9199219 0 0 148 0 160 13.21875"></polygon>
+                <text id="Static-VM-State" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#212121">
+                    <tspan x="20" y="17">Static VM State</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
